@@ -1,0 +1,19 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 24px;
+    background-color: black;
+    color: white;
+}
+
+table {
+    /* 1st column width: 60px
+       2nd column width: 110px */
+    width: 290px;
+    border-collapse: collapse;
+    border: 1px solid rgb(228, 228, 228);
+    text-align: center;
+}
+
+tr {
+    height: 28px;
+}
